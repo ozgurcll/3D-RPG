@@ -1,0 +1,4 @@
+repository "3D-RPG@ozguroyunda0@cloud"
+  path "/"
+    br "/main"
+    co "/main"
